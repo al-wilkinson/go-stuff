@@ -1,3 +1,3 @@
-chmod +x ./linux/hello-server
+chmod +x ./linux/hello
 
 ./linux/hello
